@@ -3,7 +3,7 @@ import React from 'react'
 import { Image, Flex, Button, VStack, Text } from '@chakra-ui/react'
 
 import LandingImg from "../assets/landingImg.png"
-import LandingImgTop from "../assets/landingvector.png"
+import LandingImgTop from "../assets/landingVector.png"
 
 const landingPage = () => {
   return (
